@@ -15,6 +15,8 @@ Directory Listing.
 Senstive Data Exposure/Sensitive files.
 Clear text Credentials.
 Specific error messages. (revealing meaningful information).
+Security Miscopnfiguration
+Broken Access Control
 
 Tools you can and will use:
 SQLMAP
@@ -23,3 +25,8 @@ DIRBUSTER
 NMAP
 OWASP ZAP
 Hydra
+
+
+
+
+
